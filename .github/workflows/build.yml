@@ -1,0 +1,33 @@
+name: Build PyArmor Linux
+
+on:
+  push:
+    branches:
+      - main  # или твоя ветка
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'  # версия, как у тебя локально
+
+      - name: Install PyArmor
+        run: pip install pyarmor
+
+      - name: Run PyArmor build
+        run: |
+          chmod +x build.sh
+          ./build.sh
+
+      - name: Upload build artifacts
+        uses: actions/upload-artifact@v3
+        with:
+          name: protected-bot
+          path: dist/  # или куда PyArmor кладёт готовый билд
