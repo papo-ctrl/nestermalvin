@@ -3,7 +3,7 @@ name: Build PyArmor Linux
 on:
   push:
     branches:
-      - main  # или твоя ветка
+      - main
 
 jobs:
   build:
@@ -16,7 +16,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.10'  # версия, как у тебя локально
+          python-version: '3.10'
 
       - name: Install PyArmor
         run: pip install pyarmor
@@ -27,7 +27,7 @@ jobs:
           ./build.sh
 
       - name: Upload build artifacts
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4  # <----- ВОТ ЭТО ВАЖНО
         with:
           name: protected-bot
-          path: dist/  # или куда PyArmor кладёт готовый билд
+          path: dist/
