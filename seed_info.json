@@ -1,0 +1,113 @@
+{
+    "Carrot": {
+        "price": 10,
+        "rarity": "***⚪️ Common***",
+        "emoji": "🥕"
+    },
+    "Strawberry": {
+        "price": 50,
+        "rarity": "***⚪️ Common***",
+        "emoji": "🍓"
+    },
+    "Blueberry": {
+        "price": 400,
+        "rarity": "***🟢 Uncommon***",
+        "emoji": "🫐"
+    },
+    "Orange Tulip": {
+        "price": 600,
+        "rarity": "***🟢 Uncommon***",
+        "emoji": "🌼"
+    },
+    "Tomato": {
+        "price": 800,
+        "rarity": "***🔵 Rare***",
+        "emoji": "🍅"
+    },
+    "Corn": {
+        "price": "1,400",
+        "rarity": "***🔵 Rare***",
+        "emoji": "🌽"
+    },
+    "Daffodil": {
+        "price": "1,000",
+        "rarity": "***🔵 Rare***",
+        "emoji": "🌼"
+    },
+    "Watermelon": {
+        "price": "2,500",
+        "rarity": "***🟡 Legendary***",
+        "emoji": "🍉"
+    },
+    "Pumpkin": {
+        "price": "3,000",
+        "rarity": "***🟡 Legendary***",
+        "emoji": "🎃"
+    },
+    "Apple": {
+        "price": "3,250",
+        "rarity": "***🟡 Legendary***",
+        "emoji": "🍎"
+    },
+    "Bamboo": {
+        "price": "4,000",
+        "rarity": "***🟡 Legendary***",
+        "emoji": "🎋"
+    },
+    "Coconut": {
+        "price": "6,000",
+        "rarity": "***🟣 Mythical***",
+        "emoji": "🥥"
+    },
+    "Cactus": {
+        "price": "15,000",
+        "rarity": "***🟣 Mythical***",
+        "emoji": "🌵"
+    },
+    "Dragon Fruit": {
+        "price": "45,000",
+        "rarity": "***🟣 Mythical***",
+        "emoji": "🐉"
+    },
+    "Mango": {
+        "price": "100,000",
+        "rarity": "***🟣 Mythical***",
+        "emoji": "🥭"
+    },
+    "Grape": {
+        "price": "850,000",
+        "rarity": "***🟠 Divine***",
+        "emoji": "🍇"
+    },
+    "Mushroom": {
+        "price": "150,000",
+        "rarity": "***🟠 Divine***",
+        "emoji": "🍄"
+    },
+    "Pepper": {
+        "price": "1,000,000",
+        "rarity": "***🟠 Divine***",
+        "emoji": "🌶️"
+    },
+    "Cacao": {
+        "price": "2,500,000",
+        "rarity": "***🟠 Divine***",
+        "emoji": "🤎"
+    },
+    "Beanstalk": {
+        "price": "10,000,000",
+        "rarity": "***🔴 Prismatic***",
+        "emoji": "🌿"
+    },
+    "Ember Lily": {
+        "price": "15,000,000",
+        "rarity": "***🔴 Prismatic***",
+        "emoji": "🏵️"
+    },
+    "Sugar Apple": {
+        "price": "20,000,000",
+        "rarity": "***🔴 Prismatic***",
+        "emoji": "🍎"
+    }
+
+}

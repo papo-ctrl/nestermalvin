@@ -1,0 +1,63 @@
+{
+  "Watering Can": {
+    "emoji": "🚿",
+    "price": "50,000",
+    "rarity": "***⚪ Common***"
+  },
+  "Trowel": {
+    "emoji": "⚒️",
+    "price": "100,000",
+    "rarity": "***🟢 Uncommon***"
+  },
+  "Recall Wrench": {
+    "emoji": "🔧",
+    "price": "150,000",
+    "rarity": "***🟢 Uncommon***"
+  },
+  "Basic Sprinkler": {
+    "emoji": "💦",
+    "price": "25,000",
+    "rarity": "***🔵 Rare***"
+  },
+  "Advanced Sprinkler": {
+    "emoji": "💦",
+    "price": "50,000",
+    "rarity": "***🟡 Legendary***"
+  },
+   "Godly Sprinkler": {
+    "emoji": "💦",
+    "price": "120,000",
+    "rarity": "***🟣 Mythical***"
+  },
+   "Lightning Rod": {
+    "emoji": "💦",
+    "price": "1,000,000",
+    "rarity": "***🟣 Mythical***"
+  },
+   "Master Sprinkler": {
+    "emoji": "💦",
+    "price": "10,000,000",
+    "rarity": "***🟠 Divine***"
+  },
+   "Cleaning Spray": {
+    "emoji": "💦",
+    "price": "15,000,000",
+    "rarity": "***🟠 Divine***"
+  },
+   "Favorite Tool": {
+    "emoji": "♥️",
+    "price": "20,000,000",
+    "rarity": "***🟠 Divine***"
+  },
+   "Harvest Tool": {
+    "emoji": "🏸",
+    "price": "30,000,000",
+    "rarity": "***🟠 Divine***"
+  },
+   "Friendship pot": {
+    "emoji": "🪴",
+    "price": "15,000,000",
+    "rarity": "***🟠 Divine***"
+  }
+
+}

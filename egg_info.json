@@ -1,0 +1,32 @@
+{
+  "Common Egg": {
+    "emoji": "🥚",
+    "price": "50,000",
+    "rarity": "***⚪ Common***"
+  },
+  "Uncommon Egg": {
+    "emoji": "🥚",
+    "price": "150,000",
+    "rarity": "***🟢 Uncommon***"
+  },
+  "Rare Egg": {
+    "emoji": "🥚",
+    "price": "600,000",
+    "rarity": "***🔵 Rare***"
+  },
+  "Legendary Egg": {
+    "emoji": "🥚",
+    "price": "3,000,000",
+    "rarity": "***🟡 Legendary***"
+  },
+  "Mythical Egg": {
+    "emoji": "🥚",
+    "price": "8,000,000",
+    "rarity": "***🟣 Mythical***"
+  },
+  "Bug Egg": {
+    "emoji": "🥚",
+    "price": "50,000,000",
+    "rarity": "***🟠 Divine***"
+  }
+}

@@ -1,0 +1,73 @@
+{
+    "Flower Seed Pack": {
+        "price": 10,
+        "rarity": "***🔵 Rare***",
+        "emoji": "🌸"
+    },
+    "Lavender": {
+        "price": 3,
+        "rarity": "***🟢 Uncommon***",
+        "emoji": "🌺"
+    },
+    "Nectarshade": {
+        "price": 5,
+        "rarity": "***🔵 Rare***",
+        "emoji": "🍯"
+    },
+    "Nectarine": {
+        "price": 25,
+        "rarity": "***🟣 Mythical***",
+        "emoji": "🍯"
+    },
+    "Hive Fruit": {
+        "price": 800,
+        "rarity": "***🟠 Divine***",
+        "emoji": "🐝"
+    },
+    "Pollen Radar": {
+        "price": 20,
+        "rarity": "***🟣 Mythical***",
+        "emoji": "📡"
+    },
+    "Nectar Staff": {
+        "price": 25,
+        "rarity": "***🟣 Mythical***",
+        "emoji": "🔱"
+    },
+    "Honey Sprinkler": {
+        "price": 30,
+        "rarity": "***🟠 Divine***",
+        "emoji": "💦"
+    },
+    "Bee Egg": {
+        "price": 18,
+        "rarity": "***🟣 Mythical***",
+        "emoji": "🥚"
+    },
+    "Bee Crate": {
+        "price": 12,
+        "rarity": "***🟡 Legendary***",
+        "emoji": "📦"
+    },
+    "Honey Comb": {
+        "price": 3,
+        "rarity": "***⚪️ Common***",
+        "emoji": "🥮"
+    },
+    "Bee Chair": {
+        "price": 5,
+        "rarity": "***🔵 Rare***",
+        "emoji": "🪑"
+    },
+    "Honey Torch": {
+        "price": 5,
+        "rarity": "***🔵 Rare***",
+        "emoji": "🍯"
+    },
+    "Honey Walkway": {
+        "price": 10,
+        "rarity": "***🟡 Legendary***",
+        "emoji": "🍯"
+    }
+
+}
